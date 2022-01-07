@@ -2,6 +2,7 @@
 - 💛 Interested in anything web dev
 - 👨🏻‍🎓 Currently refining my JavaScript skills
 - 👀 Looking for my first real job
+- 📧 You can reach me at FabosDominikDev@gmail.com
 - 👨🏻‍💻 Website coming soon
 - ✨ Love Marvel, SW, SG, ST and just an overall GEEK.
 
