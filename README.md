@@ -1,9 +1,9 @@
 - 🙋🏻‍♂️ Hello There! I'm Dominik
 - 💛 Interested in anything web dev
-- 👨🏻‍🎓 Currently refining my JavaScript skills
+- 👨🏻‍🎓 Currently refining my HTML eMail skills
 - 👀 Looking for my first real job
 - 📧 You can reach me at FabosDominikDev@gmail.com
-- 👨🏻‍💻 Website coming soon
+- 👨🏻‍💻 fbossdom.github.io
 - ✨ Love Marvel, SW, SG, ST and just an overall GEEK.
 
 <!---
